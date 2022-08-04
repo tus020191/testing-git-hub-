@@ -1,0 +1,1 @@
+l=["hi","how are you ","hello","git learning "]
