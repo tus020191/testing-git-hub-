@@ -25,3 +25,6 @@ print(st.get_nowait())
 print("bfbfbf")
 
 print("vdvdndvsv")
+print("vdvdndvsv")
+print("vdvdndvsv")
+print("vdvdndvsv")
