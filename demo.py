@@ -23,3 +23,5 @@ fun2(st)
 print(st.get_nowait())
 print(st.get_nowait())
 print("bfbfbf")
+
+print("vdvdndvsv")
