@@ -1,1 +1,2 @@
-l=["hi","how are you ","hello","git learning "]
+l=["hi","how are you ","hello","git learning ",\
+   "python ","java ","apple "]
