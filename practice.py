@@ -1,3 +1,4 @@
+from queue import Queue
 def rec_reverse(q):
     # base case
     if(q.empty()):
@@ -12,3 +13,13 @@ def rev(q):
     #add code here
     rec_reverse(q)
     return q
+
+q=Queue(maxsize=100)
+for i in range(1,10):
+    q.put_nowait(i)
+
+q=rev(q)
+for i in range(1,10):
+    print(q.get_nowait() )
+    
+
