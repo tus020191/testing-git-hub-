@@ -21,5 +21,9 @@ for i in range(1,10):
 q=rev(q)
 for i in range(1,10):
     print(q.get_nowait() )
+
+print("yes are pushed ")
+
+print("yes are pulled!!!!")
     
 
